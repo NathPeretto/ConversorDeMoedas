@@ -1,4 +1,6 @@
 Conversor de moedas feito para o desafio da Alura
+Curso de Backend
+Linguagem: JAVA
 
 Funcionalidades:
 Escolha da moeda de origem e destino a partir de um menu intuitivo.
